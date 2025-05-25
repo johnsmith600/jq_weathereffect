@@ -4,7 +4,7 @@
 `jq_weathereffects` is an advanced weather effects script for FiveM using QBCore. This script dynamically adjusts vehicle handling based on real-time weather conditions such as rain, snow, and fog. It features customizable intensity scaling, user commands to toggle effects, and detailed logging and notifications to enhance gameplay realism.
 
 ## Note
-- **The Config Options Are In The Client.lua File
+- **The Config Options Are In The Client.lua File**
 
 ## Features
 - **Dynamic Weather Effects**: Adjusts vehicle handling based on current weather conditions.
