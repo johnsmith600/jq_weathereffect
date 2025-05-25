@@ -1,0 +1,35 @@
+# Ignore Lua bytecode files
+*.luac
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore node_modules if using Node.js
+node_modules/
+
+# Ignore build directories
+build/
+dist/
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+.env.local
+.env.*.local
+
+# Ignore any other specific files or directories
+# Add your custom ignore patterns here
